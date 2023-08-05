@@ -1,4 +1,4 @@
-// 4-hbnb.js
+#!/usr/bin/env node
 
 document.addEventListener('DOMContentLoaded', () => {
   // ... (existing code remains the same)

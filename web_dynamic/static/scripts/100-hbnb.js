@@ -1,4 +1,4 @@
-// 4-hbnb.js
+#!/usr/bin/env node
 
 document.addEventListener('DOMContentLoaded', () => {
   // Variables to store the selected Amenities, States, and Cities

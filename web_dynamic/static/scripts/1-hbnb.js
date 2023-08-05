@@ -1,4 +1,5 @@
-// JavaScript code
+#!/usr/bin/env node
+
 const amenitiesList = document.getElementById('amenities-list');
 const amenitiesItems = amenitiesList.getElementsByTagName('li');
 const checkedAmenities = []; // Array to store the checked amenity IDs

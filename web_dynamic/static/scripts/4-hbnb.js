@@ -1,4 +1,4 @@
-// 3-hbnb.js
+#!/usr/bin/env node
 
 document.addEventListener('DOMContentLoaded', () => {
   // Function to create the article tag for a place

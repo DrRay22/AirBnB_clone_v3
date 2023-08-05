@@ -1,4 +1,5 @@
-// JavaScript code
+#!/usr/bin/env node
+
 document.addEventListener('DOMContentLoaded', () => {
   // Create the new div element with the specified attributes
   const apiStatusDiv = document.createElement('div');
